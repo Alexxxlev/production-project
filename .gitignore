@@ -5,5 +5,5 @@
 *.sublime
 npm-debug.*
 
-build/
+/build
 node_modules/
